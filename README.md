@@ -1,4 +1,7 @@
 # Capital Campaign Calculator
 
-something I built for a church
+Something I built for a friend's church
 
+![screenshot](http://i.imgur.com/oPW6qGO.png)
+
+Licensed MIT
