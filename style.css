@@ -1,0 +1,8 @@
+.ccc { font: 16px Helvetica, Arial, sans-serif; }
+.ccc table th { text-align: left; }
+.ccc table th, table td { padding-right: 25px; height: 28px; }
+.ccc table td.checkbox-column { padding-right: 5px; }
+.ccc table tr.disabled td.amount { color: #aaa; }
+.ccc .amount-input { white-space: nowrap; }
+.ccc .amount-input .amount { display: inline-block; margin-left: 4px; min-width: 50px; }
+.ccc input { display: inline-block; width: 45px; font: 16px Helvetica, Arial, sans-serif; }
